@@ -1,6 +1,8 @@
 # rcr_
 Random coefficients regression (RCR) Use rcr (phonTools) With (In) R Software
 
+https://www.youtube.com/watch?v=DY16D5JnQ9M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
